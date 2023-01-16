@@ -14,16 +14,16 @@ Author: Josh Reginaldo
 https://github.com/itmd-413-jreginaldo/Functions
 """
 
-import question_one
-import question_two
+import functions
 
 
 def main():
     # Question One Solution(s)
-    question_one.convert_rad_to_deg()
-    question_one.convert_deg_to_rad()
+    functions.convert_rad_to_deg()
+    functions.convert_deg_to_rad()
 
     # Question Two Solution(s)
+    functions.find_retail_price_for_items()
 
 
 if __name__ == '__main__':
