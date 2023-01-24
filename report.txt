@@ -1,0 +1,32 @@
+Functions
+
+Report Summary
+
+1. Did you complete your assignment and did your program run without errors?
+   - I completed the assignment but errors did occur
+
+2. Did your program produce the correct result?
+   - The program produced the intended results as described in the specs.
+
+3. Did you test your program thoroughly?
+   - Yes, I made sure to try to break the program the best I can.
+
+4. How much time did you spend completing your assignment?
+   - I spent roughly 30-45 for this assignment. Some of my logic was able to be reused from HW 1 so it saved some time.
+   This assignment was also significantly faster to complete since there was not as many checks to do.
+
+5. Did you write the program yourself? Did you get any help from anyone?
+   - I wrote the program completely from scratch while reusing some old code / logic.
+
+6. How did you resolve the issues when you encountered obstacles to completing your
+program? Did you use Google or other resources to get help? Describe how Google or
+other resources was able or not able to assist you.
+   - For the errors or questions I ran into while programming, I usually referenced the web / youtube videos and adjusted
+   anything I found to properly match the problem.
+
+7. What did you learn from doing this assignment?
+   - This was my first time learning about lamda functions so their use was interesting. I, however, did not implement
+   their usage in this program.
+
+8. Any other information you would like to share with your instructor?
+   - Nothing comes to mind at the writing of this document.
